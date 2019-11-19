@@ -1,8 +1,13 @@
 # Plugin-Keren
 
-Animation :
-- http://dynamicsjs.com/
+###### Animation :
+- Dynamic.JS
+    => http://dynamicsjs.com/
+- Scroll Magic
+    => https://scrollmagic.io/
+- GSAP 
+    => https://greensock.com/gsap/
 
-Slide Show :
-- # Elastic Circle Slideshow
+###### Slide Show :
+- Elastic Circle Slideshow
     => https://tympanus.net/Development/ElasticCircleSlideshow/
